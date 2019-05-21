@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ChargedUp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="my_location">My location</string>
+    <string name="start_point">Start point</string>
+    <string name="please_select_your_route">Please select your route</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="end_point">End point</string>
+    <string name="no_routes_found">No route found</string>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="fab_margin_side">64dp</dimen>
+    <dimen name="location_entry">200dp</dimen>
+    <dimen name="default_padding">10dp</dimen>
+</resources>
